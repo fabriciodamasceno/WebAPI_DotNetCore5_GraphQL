@@ -12,7 +12,7 @@
 
 # Versão do .Net Core (Versão 5)
 ./../global.json
-./WebAPIGraphQL/global.json
+WebAPIGraphQL/global.json
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
